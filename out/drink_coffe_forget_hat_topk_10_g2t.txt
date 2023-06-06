@@ -1,0 +1,63 @@
+window_e559 had curtain_302c in frame 0. 
+table_f74f was on cup_795b in frame 0. 
+room_4275 was in table_f74f in frame 0. 
+leg_7675 was a part of table_f74f in frame 0. 
+chair_7401 was near of table_f74f in frame 6. 
+hat_9d64 was on table_f74f in frame 31. 
+leg_d436 had table_f74f in frame 32. 
+bag_91f6 was on table_f74f in frame 35. 
+chair_f820 was near of table_f74f in frame 92. 
+chair_7401 was a part of seat_51be in frame 0. 
+chair_f820 was a part of seat_51be in frame 93. 
+window_db47 was near of chair_7401 in frame 0. 
+room_4275 was in chair_7401 in frame 4. 
+person_7b76 was behind chair_7401 in frame 12. 
+woman_e01f sat on chair_7401 in frame 21. 
+person_7b76 was behind window_db47 in frame 26. 
+curtain_61d6 covered window_db47 in frame 41. 
+chair_f820 was near of window_db47 in frame 90. 
+room_4275 was in window_db47 in frame 91. 
+chair_f820 was in room_4275 in frame 91. 
+table_6710 was in room_4275 in frame 91. 
+pant_fd90 wore person_7b76 in frame 5. 
+shirt_7574 wore person_7b76 in frame 7. 
+hand_c9d4 had person_7b76 in frame 10. 
+hair_b0f5 had person_7b76 in frame 10. 
+hat_27d0 was on person_7b76 in frame 12. 
+head_7357 had person_7b76 in frame 12. 
+hair_2127 was with person_7b76 in frame 13. 
+hand_0de2 had person_7b76 in frame 16. 
+hand_5a91 had person_7b76 in frame 17. 
+hair_29df had person_7b76 in frame 19. 
+hand_9ede had person_7b76 in frame 26. 
+hand_c7c8 had person_7b76 in frame 27. 
+hand_7a95 had person_7b76 in frame 28. 
+hand_a1ca had person_7b76 in frame 29. 
+chair_f820 sat on person_7b76 in frame 29. 
+pant_6507 wore person_7b76 in frame 29. 
+hand_4c2e had person_7b76 in frame 31. 
+hand_95e5 had person_7b76 in frame 37. 
+hand_c7e8 had person_7b76 in frame 38. 
+arm_ef9b had person_7b76 in frame 45. 
+chair_64a8 sat on person_7b76 in frame 72. 
+hand_0321 had person_7b76 in frame 73. 
+hand_ad2b had person_7b76 in frame 84. 
+hand_b133 had person_7b76 in frame 85. 
+head_09cc was a part of person_7b76 in frame 85. 
+woman_e01f wore pant_fd90 in frame 8. 
+woman_e01f was on shirt_7574 in frame 9. 
+hair_b0f5 had woman_e01f in frame 9. 
+head_4219 was a part of woman_e01f in frame 9. 
+hat_27d0 wore woman_e01f in frame 21. 
+head_7357 had woman_e01f in frame 21. 
+hair_29df had woman_e01f in frame 43. 
+hand_9ede had woman_e01f in frame 43. 
+phone_a123 held woman_e01f in frame 43. 
+arm_ef9b had woman_e01f in frame 44. 
+chair_f820 sat on woman_e01f in frame 47. 
+hand_b133 had woman_e01f in frame 87. 
+hand_6ac5 had woman_e01f in frame 88. 
+head_7357 was on hat_27d0 in frame 12. 
+leg_c7a3 was a part of chair_f820 in frame 90. 
+leg_286b had chair_f820 in frame 91. 
+leg_764a was a part of chair_f820 in frame 91. 

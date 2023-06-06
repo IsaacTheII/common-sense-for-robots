@@ -1,0 +1,1 @@
+table_0663 was on laptop_ff42 in frame 0. laptop_0f7e was on table_0663 in frame 0. paper_3285 was on table_0663 in frame 0. laptop_18b9 was on table_0663 in frame 1. book_a896 was on table_0663 in frame 5. laptop_a2d7 was on table_0663 in frame 7. shirt_6210 wore man_dac1 in frame 10. 

@@ -1,0 +1,1 @@
+table_af81 was on laptop_6659 in frame 0. screen_b6d6 was on laptop_6659 in frame 0. flower_7a78 was on table_af81 in frame 0. vase_169f was on table_af81 in frame 0. chair_87e4 was near of table_af81 in frame 0. vase_169f was in flower_7a78 in frame 0. 

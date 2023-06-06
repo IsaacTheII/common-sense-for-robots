@@ -133,3 +133,7 @@ dmypy.json
 .pyre/
 
 .idea/workspace.xml
+
+testing/
+temp/
+cam/

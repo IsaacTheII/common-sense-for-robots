@@ -1,0 +1,67 @@
+window_bf4e had curtain_e54d in frame 0. 
+table_6d1f was on cup_b9d3 in frame 0. 
+room_1291 was in table_6d1f in frame 0. 
+leg_deec was a part of table_6d1f in frame 0. 
+chair_d931 was near of table_6d1f in frame 6. 
+leg_43d5 had table_6d1f in frame 15. 
+hat_4622 was on table_6d1f in frame 31. 
+bag_6d40 was on table_6d1f in frame 34. 
+chair_d66e was near of table_6d1f in frame 83. 
+chair_d931 was a part of seat_939e in frame 0. 
+chair_d66e was a part of seat_939e in frame 92. 
+window_6686 was near of chair_d931 in frame 0. 
+room_1291 was in chair_d931 in frame 4. 
+person_2484 was behind chair_d931 in frame 12. 
+woman_5409 sat on chair_d931 in frame 21. 
+pillow_44b5 was on chair_d931 in frame 22. 
+person_2484 was behind window_6686 in frame 13. 
+curtain_7a2c covered window_6686 in frame 37. 
+chair_d66e was near of window_6686 in frame 90. 
+room_1291 was in window_6686 in frame 91. 
+person_2484 was in room_1291 in frame 59. 
+chair_d66e was in room_1291 in frame 91. 
+table_b939 was in room_1291 in frame 91. 
+pant_d4e2 wore person_2484 in frame 5. 
+shirt_3e97 wore person_2484 in frame 7. 
+hand_f900 had person_2484 in frame 10. 
+hair_39a7 had person_2484 in frame 10. 
+hat_c7f2 was on person_2484 in frame 12. 
+head_739c was a part of person_2484 in frame 12. 
+hair_9f2d had person_2484 in frame 12. 
+hand_e4db had person_2484 in frame 12. 
+curtain_7a2c was behind person_2484 in frame 12. 
+hand_4763 had person_2484 in frame 15. 
+hand_0bb7 had person_2484 in frame 16. 
+hand_e04a had person_2484 in frame 17. 
+glass_c903 held person_2484 in frame 17. 
+hair_3441 had person_2484 in frame 19. 
+hand_77cc had person_2484 in frame 19. 
+hand_990d had person_2484 in frame 23. 
+hand_e31b had person_2484 in frame 26. 
+hand_480c had person_2484 in frame 27. 
+chair_d66e was behind person_2484 in frame 28. 
+hand_ed77 had person_2484 in frame 29. 
+chair_28cd sat on person_2484 in frame 29. 
+pant_696e wore person_2484 in frame 29. 
+hand_5a79 had person_2484 in frame 31. 
+arm_04f8 had person_2484 in frame 31. 
+hand_1d74 had person_2484 in frame 38. 
+arm_8659 had person_2484 in frame 45. 
+book_fcfa held person_2484 in frame 57. 
+woman_5409 wore pant_d4e2 in frame 8. 
+woman_5409 was on shirt_3e97 in frame 9. 
+hair_39a7 had woman_5409 in frame 9. 
+head_b626 was a part of woman_5409 in frame 9. 
+hat_c7f2 was on woman_5409 in frame 21. 
+head_739c had woman_5409 in frame 21. 
+hand_990d had woman_5409 in frame 21. 
+hair_3441 had woman_5409 in frame 43. 
+hand_e31b had woman_5409 in frame 43. 
+phone_e8a6 held woman_5409 in frame 43. 
+arm_8659 had woman_5409 in frame 44. 
+hand_f900 was a part of woman_5409 in frame 87. 
+hand_c640 had woman_5409 in frame 88. 
+head_739c was on hat_c7f2 in frame 12. 
+leg_95c5 was a part of chair_d66e in frame 90. 
+leg_b2a5 had chair_d66e in frame 91. 
+leg_efb1 was a part of chair_d66e in frame 91. 

@@ -93,7 +93,7 @@ class Graphene:
             sg_count += 1
 
 
-def generate_scene_graph(reltr_path, img_path, graph_path, device="cpu", topk=5):
+def generate_scene_graph(reltr_path, img_path, graph_path, device="cuda", topk=64):
     """
     calls RelTR to create scene graph from image and saves json output file in graph path
     """

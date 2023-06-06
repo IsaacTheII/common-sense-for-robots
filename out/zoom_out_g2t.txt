@@ -1,0 +1,1 @@
+shirt_a402 wore man_f5c3 in frame 0. chair_f149 sat on man_f5c3 in frame 0. pant_0295 wore man_f5c3 in frame 0. hair_3e26 had man_f5c3 in frame 0. hair_6bff had man_f5c3 in frame 1. room_95d9 was in window_1bf3 in frame 0. 
